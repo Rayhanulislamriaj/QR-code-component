@@ -46,26 +46,7 @@ For me it was very dificult to choose the right properties in css to get the bod
 
 At the end, i believe i did a good job with the things that i used. Always open to any comments
 
-<style>
-    .body{
-background: var(--lightGray);
-font-family: 'Outfit', sans-serif;
-font-weight: 400;
-display: flex;
-align-items: center;
-justify-content: center;
-}
-.card{
-background: var(--whiteColor);
-padding: 15px;
-width: 320px;
-border-radius: 15px;
--webkit-border-radius: 15px;
--moz-border-radius: 15px;
--ms-border-radius: 15px;
--o-border-radius: 15px;
-}
-</style>
+<link rel="stylesheet" href="style.css">
 
 ### Continued development
 
