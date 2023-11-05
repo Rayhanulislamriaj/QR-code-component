@@ -77,7 +77,6 @@ The QR code could be links to a document or something along those ways. Going to
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Rayhanulislamriaj](https://www.frontendmentor.io/profile/Rayhanulislamriaj)
 - Twitter - [@rayhanul_riaj](https://twitter.com/rayhanul_riaj)
 
